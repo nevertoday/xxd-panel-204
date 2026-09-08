@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 204"
+  short_description: "Soft-focus Light-memory Vignette"
+  default_prompt: "Use $xxd-panel-204 to transform my photograph following the complete canonical source brief."
