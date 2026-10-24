@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 204｜Soft-focus Light-memory Vignette: no longer draws the subject in full but turns its outline, direction, gesture or spatial relationship into one small abstract shape of light — soft-focus projection, blurred silhouette, translucent colour patches and partial afterimages with bloom and halation — some edges fairly clear, others dissolving, bleaching or melting into the background, as if seen through frosted glass, mist or a curtain. Colours are sun-washed pastel haze: one large soft base colour with another cool or warm group seeping in like light, such as powder blue with cream, pale teal with apricot, or soft pink with lilac. The tiny focus sits in vast negative space with a few thin, widely spaced words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-204 or asks for soft-focus, blurred-light, dreamy minimal mood posters from a photo.",
+  "short_description": "柔焦光影记忆小品：把照片主体化成一小块柔焦的光影和模糊剪影，粉雾配色，极大留白",
+  "zh-CN": {
+    "name": "柔焦光影记忆小品",
+    "tagline": "把照片主体化成一小块柔焦的光影和模糊剪影，像一段被光留下的记忆。",
+    "look": "主体不再被完整画出，而是变成一个小小的抽象光影：柔焦投影、模糊剪影、透光色块和局部残影，只留下轮廓、方向、动作或空间关系。有的边缘相对清楚，有的逐渐散开、漂白或融进背景，像透过磨砂玻璃、薄雾或窗帘留下的影子，不是均匀地全部模糊。颜色像被阳光漂洗过：一大片柔和底色上渗入另一组冷色或暖色的光，如粉雾蓝配奶油暖白、浅青绿配杏黄、柔粉配淡紫。光影焦点很小，四周是大片空白，几个纤细疏朗的小字落在留白或光影边缘。",
+    "traits": [
+      "柔焦光影",
+      "模糊剪影",
+      "粉雾色调",
+      "极小焦点",
+      "大片负空间"
+    ],
+    "good": [
+      "光线本身有故事的照片：窗边逆光、树影、黄昏剪影、透过窗帘的光",
+      "剪影清楚的人或物：窗前的人、一盆植物、一只坐着的猫",
+      "想做情绪海报、展览视觉或安静封面的照片"
+    ],
+    "poor": [
+      "需要看清主体细节的照片：商品图、证件照、带文字的招牌",
+      "想要清晰写实描绘或硬边图形的需求",
+      "想要信息量大、画面饱满的宣传海报"
+    ]
+  },
+  "en": {
+    "name": "Soft-focus Light-memory Vignette",
+    "tagline": "Turns a photo's subject into a small patch of soft-focus light, like a memory left by light.",
+    "look": "The subject is no longer drawn in full; it becomes a small abstract shape of light made of soft-focus projection, blurred silhouette, translucent colour patches and partial afterimages, keeping only its outline, direction, gesture or spatial relationship. Some edges stay fairly clear while others spread, bleach out or melt into the background, like a shadow seen through frosted glass, mist or a curtain, rather than an even blur everywhere. The colours look washed by sunlight: one large soft base colour with another group of cool or warm light seeping into it, such as powder blue with warm cream, pale teal with apricot, or soft pink with lilac. The focus of light is tiny, surrounded by wide empty space, with a few thin, widely spaced words at the edge of the light or in the whitespace.",
+    "traits": [
+      "Soft-focus light",
+      "Blurred silhouette",
+      "Pastel haze",
+      "Tiny focus",
+      "Vast negative space"
+    ],
+    "good": [
+      "Photos where the light itself tells the story: backlight at a window, tree shadows, a dusk silhouette, light through a curtain",
+      "People or things with a clear silhouette: someone at a window, a potted plant, a sitting cat",
+      "Photos you want as a mood poster, exhibition visual or quiet cover"
+    ],
+    "poor": [
+      "Photos where the subject's detail must be seen: product shots, ID photos, signs with lettering",
+      "Requests for clear realistic drawing or hard-edged graphics",
+      "Promotional posters that need lots of information and a full frame"
+    ]
+  },
+  "ja": {
+    "name": "柔らかな光と記憶の小品",
+    "tagline": "写真の主役を、ソフトフォーカスの光とぼやけたシルエットの小さなかたまりに変え、光が残した記憶のようにします。",
+    "look": "主役はもう全体を描かず、ソフトフォーカスの投影、ぼやけたシルエット、光を透かす色面、部分的な残像でできた小さな抽象的な光のかたちになり、輪郭、向き、動き、空間の関係だけが残ります。ある縁は比較的はっきりし、ある部分は広がり、白く飛び、背景に溶け込みます。すりガラスや薄霧、カーテン越しの影のようで、全体を均一にぼかすわけではありません。色は日に洗われたようで、柔らかな地色が大きく広がり、そこに別の寒色や暖色の光がにじみ込みます。粉っぽい青と温かなクリーム、淡い青緑と杏色、柔らかなピンクと淡い紫などです。光の焦点はとても小さく、周りは大きな余白で、細く字間の広い文字を余白や光の縁に数語置きます。",
+    "traits": [
+      "ソフトフォーカスの光",
+      "ぼやけたシルエット",
+      "パステルの霞",
+      "ごく小さな焦点",
+      "広大な余白"
+    ],
+    "good": [
+      "光そのものに物語がある写真：窓辺の逆光、木漏れ日の影、夕暮れのシルエット、カーテン越しの光",
+      "シルエットがはっきりした人や物：窓辺の人、鉢植え、座っている猫",
+      "情緒的なポスター、展覧会のビジュアル、静かな表紙にしたい写真"
+    ],
+    "poor": [
+      "主役の細部を見せる必要がある写真：商品写真、証明写真、文字の入った看板",
+      "はっきりした写実描写や硬い縁の図形を求める場合",
+      "情報量が多く画面の詰まった宣伝ポスター"
+    ]
+  },
+  "ko": {
+    "name": "부드러운 빛과 기억 소품",
+    "tagline": "사진의 주인공을 소프트 포커스 빛과 흐린 실루엣의 작은 덩어리로 바꿔, 빛이 남긴 기억처럼 만듭니다.",
+    "look": "주인공은 더 이상 온전히 그려지지 않고 소프트 포커스 투영, 흐린 실루엣, 빛이 비치는 색면, 부분적인 잔상으로 된 작은 추상적 빛의 형태가 되며, 윤곽, 방향, 동작, 공간 관계만 남습니다. 어떤 가장자리는 비교적 분명하고 어떤 부분은 퍼지고 하얗게 바래거나 배경에 녹아들어, 젖빛 유리나 엷은 안개, 커튼 너머의 그림자처럼 보이며 전체를 고르게 흐리지는 않습니다. 색은 햇빛에 씻긴 듯합니다. 부드러운 바탕색이 넓게 깔리고 다른 차가운 색이나 따뜻한 색의 빛이 스며듭니다. 파우더 블루와 따뜻한 크림, 연한 청록과 살구색, 부드러운 분홍과 연보라 같은 조합입니다. 빛의 초점은 아주 작고 둘레는 넓은 여백이며, 가늘고 자간이 넓은 글자 몇 개를 여백이나 빛의 가장자리에 둡니다.",
+    "traits": [
+      "소프트 포커스 빛",
+      "흐린 실루엣",
+      "파스텔 안개",
+      "아주 작은 초점",
+      "넓은 여백"
+    ],
+    "good": [
+      "빛 자체에 이야기가 있는 사진: 창가 역광, 나무 그림자, 해 질 녘 실루엣, 커튼 사이로 든 빛",
+      "실루엣이 분명한 사람이나 사물: 창가의 사람, 화분, 앉아 있는 고양이",
+      "감성 포스터, 전시 비주얼, 조용한 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "주인공의 디테일이 보여야 하는 사진: 상품 사진, 증명사진, 글자가 있는 간판",
+      "선명한 사실 묘사나 경계가 또렷한 그래픽을 원하는 경우",
+      "정보가 많고 화면이 꽉 찬 홍보 포스터"
+    ]
+  },
+  "ar": {
+    "name": "مشهد ذاكرة ضوئية ناعم التركيز",
+    "tagline": "يحوّل عنصر الصورة إلى بقعة صغيرة من ضوء ناعم التركيز وظل ضبابي، كذكرى خلّفها الضوء.",
+    "look": "لا يُرسم العنصر كاملاً بعد الآن، بل يصبح شكلاً ضوئياً مجرداً صغيراً من إسقاط ناعم التركيز وظل ضبابي وبقع لونية شفافة وآثار باقية جزئية، ولا يبقى إلا حدوده أو اتجاهه أو حركته أو علاقته بالمكان. تبقى بعض الحواف واضحة نسبياً بينما تنتشر أجزاء أخرى أو تبهت أو تذوب في الخلفية، كظل يُرى عبر زجاج مصنفر أو ضباب أو ستارة، لا ضبابية متساوية في كل مكان. تبدو الألوان كأن الشمس غسلتها: لون أساس ناعم واسع تتسرب إليه مجموعة أخرى من الضوء البارد أو الدافئ، مثل الأزرق البودري مع الكريمي الدافئ، أو الفيروزي الفاتح مع المشمشي، أو الوردي الناعم مع الليلكي. بؤرة الضوء صغيرة جداً، يحيط بها فراغ واسع، مع كلمات رفيعة قليلة متباعدة الحروف عند حافة الضوء أو في الفراغ.",
+    "traits": [
+      "ضوء ناعم التركيز",
+      "ظل ضبابي",
+      "غشاوة باستيلية",
+      "بؤرة صغيرة جداً",
+      "فراغ سلبي شاسع"
+    ],
+    "good": [
+      "صور يروي فيها الضوء نفسه الحكاية: إضاءة خلفية عند نافذة، ظلال الأشجار، ظل عند الغسق، ضوء عبر ستارة",
+      "أشخاص أو أشياء واضحة الظل: شخص عند نافذة، نبتة في أصيص، قطة جالسة",
+      "صور تريدها ملصقاً وجدانياً أو مرئية معرض أو غلافاً هادئاً"
+    ],
+    "poor": [
+      "صور يجب أن تُرى فيها تفاصيل العنصر: صور المنتجات، صور الهوية، اللافتات المكتوبة",
+      "طلب رسم واقعي واضح أو أشكال حادة الحواف",
+      "ملصقات ترويجية تحتاج إلى معلومات كثيرة وإطار ممتلئ"
+    ]
+  }
+}

@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 204"
-  short_description: "Soft-focus Light-memory Vignette"
-  default_prompt: "Use $xxd-panel-204 to transform my photograph following the complete canonical source brief."
+  short_description: "柔焦光影记忆小品：把照片主体化成一小块柔焦的光影和模糊剪影，粉雾配色，极大留白"
+  default_prompt: "Use $xxd-panel-204 to turn my photo into Soft-focus Light-memory Vignette artwork."
